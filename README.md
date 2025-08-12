@@ -1,5 +1,5 @@
 # GreenCart =>
-
+Hello , welcome to this project.
 - Create a clent folder using - npm create vite@latest
 
 - Install all dependencies -> npm install
@@ -17,4 +17,5 @@
 
 - Add Google font embed code - Outfit font
 
-- Created Navbar 
+- Created Navbar
+  
